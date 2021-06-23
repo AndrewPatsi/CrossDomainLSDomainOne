@@ -2,7 +2,8 @@
 Domain one of cross domain local storage
 
 Start the code from https://github.com/AndrewPatsi/CrossDomainLSDomainTwo on your localhost:3000, this would be "domain.two".
-The "domain.one" code from this repository work's on https://crossdomainlsdomainonemain.gatsbyjs.io fre hosting.
+
+The "domain.one" code from this repository work's on https://crossdomainlsdomainonemain.gatsbyjs.io free hosting.
 
 # The domain.one code
 
