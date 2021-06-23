@@ -1,2 +1,2 @@
 # CrossDomainLSDomainOne
-Domain one for cross domain local storage
+Domain one of cross domain local storage
